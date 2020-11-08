@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  simple-webapp:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2020-11-08T01:16:07.488344-06:00"
+    digest: 922da75fdd1722f74a7fc3a8adeda4fa9ee7b4d159bbe1d0454aebf9233d5894
+    name: simple-webapp
+    urls:
+    - https://francisco-codefresh.github.io/charts/simple-webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-08T01:16:07.483362-06:00"
