@@ -1,5 +1,5 @@
 # charts
-https://francisco-codefresh.github.com/charts
+https://francisco-codefresh.github.io/charts/
 
 ```
 $ cd <dir of the repo of the chart>
